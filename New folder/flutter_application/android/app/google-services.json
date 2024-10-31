@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760347801905",
+    "project_id": "flutter-cuoiky-edf09",
+    "storage_bucket": "flutter-cuoiky-edf09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760347801905:android:bedc89f90a7d429517d810",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2S20p2duDnA41JzeShwoKixg45sOWf4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
